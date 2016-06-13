@@ -1,0 +1,16 @@
+{
+  "name": "binary-test-data",
+  "version": "1.0.0",
+  "description": "Test data for Binary.com Apps",
+  "main": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/borisyankov/binary-test-data.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/borisyankov/binary-test-data/issues"
+  },
+  "homepage": "https://github.com/borisyankov/binary-test-data#readme"
+}
